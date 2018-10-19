@@ -1,0 +1,2 @@
+An article at this webpage 'https://www.nytimes.com/interactive/2017/06/23/opinion/trumps-lies.html' describled all the lies told by Donald Trump in the year 2017. 
+I am scrapping that data with 4 columns consisting of the date, Lie , Explanation and URL
