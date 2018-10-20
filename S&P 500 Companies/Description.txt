@@ -1,0 +1,3 @@
+I am scrapping the data of S&P 500 companies
+Data include Company name and Company Ticker
+Data is extracted from Wikipedia page
